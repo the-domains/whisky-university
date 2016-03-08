@@ -4,21 +4,21 @@
         <description><![CDATA[Whisky University]]></description>
         <link>https://thegrid.ai/whisky-university/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 00:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 00:50:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/whisky-university/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25b6b64b-1e37-40fd-862d-b1f52b199e4e.jpg">]]></description>
+            <link>https://thegrid.ai/whisky-university/678eb268-df5d-47ba-b85f-036d445a7aa4/index.html</link>
+            <guid isPermaLink="false">678eb268-df5d-47ba-b85f-036d445a7aa4</guid>
+            <pubDate>Tue, 08 Mar 2016 00:47:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Whisky Life]]></title>
             <description><![CDATA[<article><h1>Whisky Life</h1><h2>THE ORGINS OF WCU</h2><p>Whisky, as a whole, is viewed as distinct from other spirits. Perhaps it is the history or the flavor profile, but one rarely meets someone casually involved with whisky.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ddfd9c52265ee1d362068a2396d34e0bc889f8b.jpg"></article>]]></description>
             <link>https://thegrid.ai/whisky-university/f77a4608-8330-4585-ab90-59b0d6bd92b2/index.html</link>
             <guid isPermaLink="false">f77a4608-8330-4585-ab90-59b0d6bd92b2</guid>
             <pubDate>Tue, 08 Mar 2016 00:44:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/25b6b64b-1e37-40fd-862d-b1f52b199e4e.jpg">]]></description>
-            <link>https://thegrid.ai/whisky-university/678eb268-df5d-47ba-b85f-036d445a7aa4/index.html</link>
-            <guid isPermaLink="false">678eb268-df5d-47ba-b85f-036d445a7aa4</guid>
-            <pubDate>Mon, 07 Mar 2016 22:27:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
