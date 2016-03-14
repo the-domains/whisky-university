@@ -23,6 +23,6 @@ color:
     - '#dba775'
   brandStrength: 1
   lightness: 1
-  saturation: 0
-  rhythmicContrast: 1
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
