@@ -1,6 +1,6 @@
 name: Whisky University
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.90423
 typography_spectrum: 0.52474
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#606f7b'
-    - '#291e18'
-    - '#f7ede2'
-    - '#9e9a90'
-    - '#dba775'
+    - '#ffffff'
+    - '#281413'
+    - '#aac0ce'
+    - '#5d7277'
+    - '#bf8237'
   brandStrength: 1
   lightness: 1
-  saturation: 1
+  saturation: 0
   rhythmicContrast: 1
 purpose: []
